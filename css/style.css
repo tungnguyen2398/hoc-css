@@ -1,0 +1,15 @@
+body {
+    background: darkgreen;
+}
+
+.content {
+    width: 200px;
+    height: 24px;
+    border: white 10px solid;
+    border-top: white 50px solid;
+    border-bottom: white 50px solid;
+    text-align: center;
+    margin: 20px;
+    color: tomato;
+    background-color: thistle;
+}
